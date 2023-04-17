@@ -1,0 +1,46 @@
+ * {
+    box-sizing: border-box;
+    background-color: rgb(196, 246, 221);
+ }
+
+h1 {
+    text-shadow: rgb(19, 195, 36) 1px 0 10px;
+    padding: 20px;
+}
+
+textarea, select {
+    height: 30px;
+    font-size: 10px;
+    width: 15%;
+  }
+
+ .scoretime {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ }
+
+.section h1, p {
+    text-align: center;
+  
+}
+
+.center {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+ .line {
+    display: inline;
+ }
+
+ .button {
+    background-color: aqua;
+ }
+
+ /* create a hide class, easier for js stuff?
