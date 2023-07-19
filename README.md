@@ -1,4 +1,5 @@
-# homework-04-API-coding-quiz
+# API-coding-quiz
+
 API Coding Quiz homework assignments
 
 Git Hub: https://github.com/minutemin/homework-04-API-coding-quiz
